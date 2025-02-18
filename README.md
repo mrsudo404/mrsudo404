@@ -1,6 +1,4 @@
-=============================
 Welcome to My GitHub Profile
-=============================
 
 Hi there! I'm Waqas Khan – a passionate web developer and WordPress enthusiast. This GitHub profile is where I share my projects, collaborate on open-source initiatives, and explore new technologies.
 
