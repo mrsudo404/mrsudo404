@@ -1,170 +1,152 @@
-# 👋 Hi there, I'm Waqas Khan
+# Waqas Khan 👨‍💻
 
-🚀 Full-Stack Developer | AI Enthusiast | BuddyBoss Specialist | WordPress Developer | Open Source Contributor
+### Full-Stack Developer • AI Builder • BuddyBoss Specialist • Open Source Enthusiast
 
-Welcome to my GitHub profile!
-
-I’m passionate about building modern, scalable, and intelligent digital platforms that combine powerful backend systems with clean and engaging user experiences.
-
-My work focuses on:
-
-* AI-powered web applications
-* BuddyBoss & community platforms
-* Custom WordPress solutions
-* Real-time dashboards and analytics
-* Automation systems
-* Interactive UI/UX experiences
-* Open-source collaboration
+Building intelligent web experiences, AI-powered systems, and scalable digital platforms.
 
 ---
 
-# 💡 About Me
+## 🚀 About Me
 
-I specialize in developing advanced web applications, intelligent systems, and community-driven platforms.
-
-I enjoy transforming ideas into real-world products using modern technologies and scalable architectures.
-
-Over time, I’ve worked on:
-
-* AI-powered mission control systems
-* Emotion-based music recommendation platforms
-* BuddyBoss custom applications & integrations
-* Advanced WordPress ecosystems
-* Real-time telemetry dashboards
-* Neural network simulations
-* Automation and analytics platforms
-* Custom REST API systems
-
-I believe in building software that is:
-
-* Scalable
-* Secure
-* User-focused
-* Performance optimized
-* Future-ready
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-* Python
-* JavaScript
-* PHP
-* SQL
-* HTML5
-* CSS3
-
-### Frameworks & Libraries
-
-* Django
-* Flask
-* React
-* WordPress
-* BuddyBoss
-* Bootstrap
-* Tailwind CSS
-* OpenCV
-* DeepFace
-
-### AI & Automation
-
-* Machine Learning Integrations
-* Emotion Recognition Systems
-* Recommendation Engines
-* AI-powered Dashboards
-* Predictive Analytics
-* Automation Workflows
-
-### Tools & Platforms
-
-* Git & GitHub
-* MySQL
-* SQLite
-* REST APIs
-* Chart.js
-* Linux
-* Docker
-
----
-
-# 🚀 Featured Projects
-
-## 🛰 Space Mission Control System (SMCS)
-
-AI-powered mission simulation platform featuring:
-
-* Telemetry monitoring
-* Neural network predictions
-* Spacecraft & astronaut management
-* Risk analysis dashboards
-* OS scheduling simulations
-
-## 🎵 Emotion Music Player
-
-Real-time AI emotion detection music platform:
-
-* Facial emotion recognition
-* Dynamic music recommendations
-* YouTube integration
-* Live mood analytics
-
-## 👥 BuddyBoss Custom Solutions
-
-Custom community and LMS systems with:
-
-* Advanced member features
-* Gamification systems
-* API integrations
-* Custom dashboards
-* Performance optimization
-* AI-assisted engagement systems
-
----
-
-# 🌱 Currently Exploring
+I’m Waqas Khan — a developer passionate about creating modern applications that blend:
 
 * Artificial Intelligence
-* AI-powered SaaS platforms
-* Human-Computer Interaction
-* Real-Time Systems
-* Automation & Recommendation Engines
-* Community Platform Engineering
-* Cloud Deployment & Scaling
+* Real-time systems
+* Community platforms
+* Automation
+* Beautiful UI/UX
+* Scalable backend architecture
+
+I enjoy turning ambitious ideas into functional products using Python, Django, Flask, WordPress, and modern frontend technologies.
 
 ---
 
-# 🤝 Open for Collaboration
+## ⚡ What I Build
 
-I’m always interested in:
+### 🛰 AI Mission Systems
 
-* AI & automation projects
-* BuddyBoss and WordPress development
-* Startup collaborations
-* SaaS platforms
-* Research & innovation projects
-* Open-source initiatives
+Real-time telemetry dashboards, neural network simulations, mission analytics, and operational control systems.
 
-If you have an exciting idea or project, feel free to connect.
+### 🎵 AI Emotion Platforms
 
----
+Emotion-aware recommendation systems using computer vision, DeepFace, OpenCV, and adaptive media engines.
 
-# 📫 Get in Touch
+### 👥 BuddyBoss & WordPress Ecosystems
 
-🌐 Website: https://waqaskhan.com.pk
-💻 GitHub: https://github.com/mrsudo404
-📧 Email: [contact@waqaskhan.com.pk](mailto:contact@waqaskhan.com.pk)
+Custom BuddyBoss apps, LMS systems, APIs, automation tools, and advanced WordPress integrations.
+
+### 🤖 AI & Automation
+
+Recommendation engines, intelligent workflows, analytics systems, and machine learning integrations.
 
 ---
 
-# ⭐ Support
+## 🛠 Tech Stack
 
-If you like my work, consider:
+### Backend
 
-* Starring repositories
-* Following my GitHub profile
-* Sharing feedback
-* Collaborating on projects
+* Python
+* Django
+* Flask
+* PHP
+* REST APIs
 
-Thanks for visiting my profile! 🚀
+### Frontend
+
+* JavaScript
+* React
+* HTML5
+* CSS3
+* Tailwind CSS
+* Bootstrap
+
+### AI / Computer Vision
+
+* DeepFace
+* OpenCV
+* TensorFlow
+* face-api.js
+
+### Platforms & Tools
+
+* BuddyBoss
+* WordPress
+* MySQL
+* SQLite
+* Docker
+* Linux
+* Git & GitHub
+
+---
+
+## 🌟 Featured Projects
+
+### 🚀 Space Mission Control System (SMCS)
+
+AI-powered aerospace simulation platform featuring:
+
+* Neural command center
+* Mission analytics
+* Telemetry systems
+* Risk prediction
+* Crew & spacecraft management
+
+### 🎧 Emotion Music Player
+
+Real-time emotion detection platform that:
+
+* Detects mood using AI
+* Dynamically recommends music
+* Integrates YouTube playback
+* Provides live emotion analytics
+
+### 🧠 BuddyBoss Custom Platforms
+
+Advanced community systems with:
+
+* AI-enhanced engagement
+* Gamification
+* Custom APIs
+* Learning management systems
+* Real-time dashboards
+
+---
+
+## 🌱 Currently Exploring
+
+* AI-powered SaaS products
+* Intelligent recommendation systems
+* Human-computer interaction
+* Cloud-native architecture
+* Advanced automation workflows
+* Real-time analytics systems
+
+---
+
+## 🤝 Open To
+
+* Collaborations
+* Freelance projects
+* Startup partnerships
+* Open-source contributions
+* AI & automation opportunities
+* BuddyBoss/WordPress development
+
+---
+
+## 📫 Connect With Me
+
+🌐 Website
+https://waqaskhan.com.pk
+
+💻 GitHub
+https://github.com/mrsudo404
+
+📧 Email
+[contact@waqaskhan.com.pk](mailto:contact@waqaskhan.com.pk)
+
+---
+
+## ⭐ Fun Fact
+
+I love building futuristic interfaces, AI systems, and dashboards that feel like they belong in a sci-fi control center 🚀
