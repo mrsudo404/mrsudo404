@@ -2,12 +2,12 @@
 
 <!-- ANIMATED HEADER BANNER -->
 <a href="https://github.com/mrsudo404">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Waqas%20Khan&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20AI%20Builder%20•%20BuddyBoss%20Specialist&descAlignY=58&descSize=18" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Waqas%20Khan&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BuddyBoss%20App%20%26%20WordPress%20Membership%20Developer&descAlignY=58&descSize=18" width="100%" alt="header"/>
 </a>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/mrsudo404">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+intelligent+web+experiences;Crafting+AI-powered+systems;Architecting+scalable+digital+platforms;Turning+ambitious+ideas+into+reality+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=Coding+since+age+13+%F0%9F%92%BB;4%2B+years+building+digital+platforms;182%2B+projects+across+20%2B+countries+%F0%9F%8C%8D;BuddyBoss+%E2%80%A2+WordPress+%E2%80%A2+AI+%E2%80%A2+Automation;Turning+ambitious+ideas+into+reality+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,18 +16,60 @@
 <a href="https://waqaskhan.com.pk">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
+<a href="https://www.linkedin.com/in/mrsudo404">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 <a href="https://github.com/mrsudo404">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.facebook.com/mrsudo.404">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 <a href="mailto:contact@waqaskhan.com.pk">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+<a href="https://calendly.com/waqaskhaninternetmarketing/30min">
+  <img src="https://img.shields.io/badge/Book_Meeting-006BFF?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly"/>
+</a>
+
+<br/>
 
 <!-- PROFILE STATS -->
-<br/>
 <img src="https://komarev.com/ghpvc/?username=mrsudo404&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/mrsudo404?label=Followers&style=for-the-badge&color=00d9ff&labelColor=000000" alt="Followers"/>
-<img src="https://img.shields.io/badge/Status-Available%20for%20Hire-success?style=for-the-badge&labelColor=000000" alt="Status"/>
+<img src="https://img.shields.io/badge/Based_in-Multan,_Pakistan_🇵🇰-success?style=for-the-badge&labelColor=000000" alt="Location"/>
+<img src="https://img.shields.io/badge/Status-Available_for_Hire-brightgreen?style=for-the-badge&labelColor=000000" alt="Status"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- KEY STATS -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<h1>4+</h1>
+<sub><strong>YEARS<br/>EXPERIENCE</strong></sub>
+</td>
+<td align="center" width="25%">
+<h1>182+</h1>
+<sub><strong>PROJECTS<br/>COMPLETED</strong></sub>
+</td>
+<td align="center" width="25%">
+<h1>20+</h1>
+<sub><strong>COUNTRIES<br/>SERVED</strong></sub>
+</td>
+<td align="center" width="25%">
+<h1>60+</h1>
+<sub><strong>BRANDS<br/>WORLDWIDE</strong></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -43,24 +85,35 @@
 
 ```typescript
 const waqasKhan = {
-  role: "Full-Stack Developer",
-  location: "Pakistan 🇵🇰",
-  passion: ["AI", "Real-time Systems", "Beautiful UI/UX"],
-  currentFocus: "Building intelligent web experiences",
+  name:     "Waqas Khan",
+  role:     "BuddyBoss & WordPress Developer",
+  location: "Multan, Pakistan 🇵🇰",
   
-  expertise: {
-    ai:        ["DeepFace", "OpenCV", "TensorFlow"],
-    backend:   ["Python", "Django", "Flask", "PHP"],
-    frontend:  ["React", "JavaScript", "Tailwind"],
-    platforms: ["BuddyBoss", "WordPress"],
+  story: {
+    startedCoding: "Age 13",
+    freelancing:   "4+ years",
+    education:     "BS in Artificial Intelligence",
+    university:    "NFCIET, Multan (2024-2028)",
   },
   
-  philosophy: "Turn ambitious ideas into functional products",
-  funFact:    "I build dashboards that feel like sci-fi 🚀"
+  specializations: [
+    "BuddyBoss App (iOS/Android)",
+    "WordPress Membership Systems",
+    "WooCommerce + Stripe",
+    "CRM Automation (n8n, FluentCRM)",
+    "AI Chatbots & GPT Integrations",
+    "App Store Deployment",
+  ],
+  
+  reach: { projects: 182, countries: 20, brands: 60 },
+  
+  philosophy: "Build scalable systems that drive revenue"
 };
 ```
 
-I'm a developer passionate about creating modern applications that blend **Artificial Intelligence**, **Real-time systems**, **Community platforms**, **Automation**, **Beautiful UI/UX**, and **Scalable backend architecture**.
+> **Every great solution began with an even better story.**
+
+I started building websites at **age 13** — what began as curiosity evolved into a 4+ year freelance career creating full-scale **membership platforms**, **community apps** for iOS & Android, and **automated CRM-driven business systems**. I work remotely with clients worldwide, advising startups and partnering with talented teams to ship **scalable, high-performance WordPress & eCommerce solutions** that connect people and drive measurable growth.
 
 <br clear="right"/>
 
@@ -68,42 +121,78 @@ I'm a developer passionate about creating modern applications that blend **Artif
 <!-- WHAT I BUILD -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## ⚡ What I Build
+## ⚡ My Specializations
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛰 AI Mission Systems</h3>
+      <h3 align="center">👥 Membership & Community</h3>
       <p align="center">
-        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" height="160"/>
+        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" height="160"/>
       </p>
-      <p>Real-time telemetry dashboards, neural network simulations, mission analytics, and operational control systems.</p>
+      <ul>
+        <li>BuddyBoss setup & customization</li>
+        <li>BuddyBoss Web + Mobile Apps</li>
+        <li>LearnDash & membership integrations</li>
+        <li>Private community architecture</li>
+        <li>Course + subscription systems</li>
+        <li>Stripe / WooCommerce recurring billing</li>
+      </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎵 AI Emotion Platforms</h3>
+      <h3 align="center">🛠 WordPress Engineering</h3>
       <p align="center">
-        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="160"/>
+        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%" height="160"/>
       </p>
-      <p>Emotion-aware recommendation systems using computer vision, DeepFace, OpenCV, and adaptive media engines.</p>
+      <ul>
+        <li>Performance optimization</li>
+        <li>Custom theme development</li>
+        <li>WooCommerce API integrations</li>
+        <li>Server configuration & hosting</li>
+        <li>Security hardening</li>
+        <li>Enterprise WordPress solutions</li>
+      </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">👥 BuddyBoss & WordPress</h3>
+      <h3 align="center">⚙️ Automation & Workflows</h3>
       <p align="center">
-        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" height="160"/>
+        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" height="160"/>
       </p>
-      <p>Custom BuddyBoss apps, LMS systems, APIs, automation tools, and advanced WordPress integrations.</p>
+      <ul>
+        <li>n8n workflow design</li>
+        <li>Zapier alternatives & custom integrations</li>
+        <li>CRM automations</li>
+        <li>Lead nurturing pipelines</li>
+        <li>Email + WhatsApp automation</li>
+        <li>REST APIs & Webhooks</li>
+      </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 AI & Automation</h3>
+      <h3 align="center">🤖 AI & Chatbot Systems</h3>
       <p align="center">
-        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%" height="160"/>
+        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="160"/>
       </p>
-      <p>Recommendation engines, intelligent workflows, analytics systems, and machine learning integrations.</p>
+      <ul>
+        <li>Website AI chatbots</li>
+        <li>CRM-integrated bots</li>
+        <li>Lead qualification bots</li>
+        <li>GPT-powered assistants</li>
+        <li>Custom AI workflows</li>
+        <li>ChatGPT API integrations</li>
+      </ul>
     </td>
   </tr>
 </table>
+
+### 📊 CRM & Business Infrastructure
+
+<div align="center">
+
+`GoHighLevel` • `HubSpot` • `FluentCRM` • `WP Fusion` • `Funnel Integration` • `Membership Lifecycle Automation` • `Sales Pipelines` • `Analytics Dashboards`
+
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- TECH STACK -->
@@ -113,44 +202,73 @@ I'm a developer passionate about creating modern applications that blend **Artif
 
 <div align="center">
 
-### 🔹 Backend Development
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-<img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST"/>
-</p>
-
-### 🔹 Frontend Development
-<p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</p>
-
-### 🔹 AI / Computer Vision
-<p>
-<img src="https://img.shields.io/badge/DeepFace-FF4B4B?style=for-the-badge&logo=python&logoColor=white" alt="DeepFace"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/face--api.js-00D9FF?style=for-the-badge&logo=javascript&logoColor=black" alt="face-api"/>
-</p>
-
-### 🔹 Platforms & Tools
+### 🔹 Core Platforms
 <p>
 <img src="https://img.shields.io/badge/BuddyBoss-1A73E8?style=for-the-badge&logo=buddypress&logoColor=white" alt="BuddyBoss"/>
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="Woo"/>
+<img src="https://img.shields.io/badge/LearnDash-FF7A59?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="LearnDash"/>
+<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor"/>
+<img src="https://img.shields.io/badge/Divi-7D3CFF?style=for-the-badge&logo=wordpress&logoColor=white" alt="Divi"/>
 </p>
+
+### 🔹 App Development & Deployment
+<p>
+<img src="https://img.shields.io/badge/Apple_Developer-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apple"/>
+<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/>
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+</p>
+
+### 🔹 Backend & Languages
+<p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST"/>
+<img src="https://img.shields.io/badge/Webhooks-FF4F00?style=for-the-badge&logo=webhook&logoColor=white" alt="Webhooks"/>
+</p>
+
+### 🔹 Frontend
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</p>
+
+### 🔹 Automation, AI & CRM
+<p>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier"/>
+<img src="https://img.shields.io/badge/ChatGPT_API-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+<img src="https://img.shields.io/badge/FluentCRM-006FB7?style=for-the-badge&logo=wordpress&logoColor=white" alt="FluentCRM"/>
+<img src="https://img.shields.io/badge/GoHighLevel-1A237E?style=for-the-badge&logo=gohighlevel&logoColor=white" alt="GHL"/>
+<img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot"/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
+<img src="https://img.shields.io/badge/WP_Fusion-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WP Fusion"/>
+</p>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- SKILL LEVELS -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 📈 Skill Proficiency
+
+<div align="center">
+
+| Skill | Level | Progress |
+|-------|:-----:|----------|
+| **WordPress Enterprise** | `92%` | ![92%](https://progress-bar.xyz/92/?scale=100&width=400&color=00d9ff&suffix=%25) |
+| **BuddyBoss** | `90%` | ![90%](https://progress-bar.xyz/90/?scale=100&width=400&color=00d9ff&suffix=%25) |
+| **LearnDash** | `90%` | ![90%](https://progress-bar.xyz/90/?scale=100&width=400&color=00d9ff&suffix=%25) |
+| **Elementor** | `90%` | ![90%](https://progress-bar.xyz/90/?scale=100&width=400&color=00d9ff&suffix=%25) |
+| **Figma** | `86%` | ![86%](https://progress-bar.xyz/86/?scale=100&width=400&color=00d9ff&suffix=%25) |
+| **WooCommerce** | `85%` | ![85%](https://progress-bar.xyz/85/?scale=100&width=400&color=00d9ff&suffix=%25) |
+| **Divi** | `70%` | ![70%](https://progress-bar.xyz/70/?scale=100&width=400&color=00d9ff&suffix=%25) |
+| **HTML / CSS / Python** | `70%` | ![70%](https://progress-bar.xyz/70/?scale=100&width=400&color=00d9ff&suffix=%25) |
 
 </div>
 
@@ -181,7 +299,6 @@ I'm a developer passionate about creating modern applications that blend **Artif
 
 <br/>
 
-<!-- ACTIVITY GRAPH -->
 <a href="https://github.com/mrsudo404">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrsudo404&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="98%"/>
 </a>
@@ -192,56 +309,69 @@ I'm a developer passionate about creating modern applications that blend **Artif
 <!-- FEATURED PROJECTS -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## 🌟 Featured Projects
+## 🌟 Featured Client Projects
 
 <div align="center">
 
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
-      <h3>🚀</h3>
-      <h3>Space Mission Control</h3>
-      <p><strong>AI-powered aerospace simulation</strong></p>
-      <sub>
-      ✦ Neural command center<br/>
-      ✦ Mission analytics<br/>
-      ✦ Telemetry systems<br/>
-      ✦ Risk prediction<br/>
-      ✦ Crew & spacecraft mgmt
-      </sub>
+      <h3>🏆</h3>
+      <h3><a href="#">Clubforce</a></h3>
+      <p><strong>Sports Club Management</strong></p>
+      <sub>Full management platform for sports clubs with member registration, payments, and event handling.</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>🎧</h3>
-      <h3>Emotion Music Player</h3>
-      <p><strong>Real-time emotion detection</strong></p>
-      <sub>
-      ✦ Detects mood using AI<br/>
-      ✦ Dynamic music recs<br/>
-      ✦ YouTube integration<br/>
-      ✦ Live emotion analytics<br/>
-      ✦ Adaptive media engine
-      </sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-      <img src="https://img.shields.io/badge/DeepFace-FF4B4B?style=flat-square&logo=python&logoColor=white"/>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>🧠</h3>
-      <h3>BuddyBoss Platforms</h3>
-      <p><strong>Advanced community systems</strong></p>
-      <sub>
-      ✦ AI-enhanced engagement<br/>
-      ✦ Gamification<br/>
-      ✦ Custom APIs<br/>
-      ✦ LMS systems<br/>
-      ✦ Real-time dashboards
-      </sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/BuddyBoss-1A73E8?style=flat-square&logo=buddypress&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+      <img src="https://img.shields.io/badge/WPBakery-0073AA?style=flat-square&logo=wordpress&logoColor=white"/>
       <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>⚔️</h3>
+      <h3><a href="https://princearmoryacademy.com/">Prince Armory Academy</a></h3>
+      <p><strong>Learning Community Platform</strong></p>
+      <sub>Premium membership academy with course delivery, community features, and secure billing.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+      <img src="https://img.shields.io/badge/BuddyBoss-1A73E8?style=flat-square&logo=buddypress&logoColor=white"/>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🛍️</h3>
+      <h3><a href="https://cleioandco.com/">Cleio & Co</a></h3>
+      <p><strong>E-commerce Store</strong></p>
+      <sub>Full-stack eCommerce platform with custom checkout flow and inventory management.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+      <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>🧘</h3>
+      <h3><a href="http://flowstate.yoga/">FlowState</a></h3>
+      <p><strong>Online Yoga Training</strong></p>
+      <sub>Subscription-based yoga platform with LearnDash courses and BuddyBoss community.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+      <img src="https://img.shields.io/badge/BuddyBoss-1A73E8?style=flat-square&logo=buddypress&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LearnDash-FF7A59?style=flat-square&logo=graduation-cap&logoColor=white"/>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>📈</h3>
+      <h3><a href="https://wyckoffsmi.com/">Wyckoff SMI Inc.</a></h3>
+      <p><strong>Online Learning Platform</strong></p>
+      <sub>Trading education platform with course delivery, subscriptions, and member portal.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LearnDash-FF7A59?style=flat-square&logo=graduation-cap&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white"/>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🌐</h3>
+      <h3><a href="https://waqaskhan.com.pk/#portfolio">+ More Projects</a></h3>
+      <p><strong>Portfolio Showcase</strong></p>
+      <sub>RETSY, IHPD, WealthMentor, SPORTIME, KAGU, STEM CELL GROUP, Jump MENA, Angeles De Gaia & more.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/See_All-00D9FF?style=flat-square&logo=arrow-right&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -249,41 +379,140 @@ I'm a developer passionate about creating modern applications that blend **Artif
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- CURRENTLY EXPLORING + OPEN TO -->
+<!-- EXPERIENCE TIMELINE -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## 🌱 What's Next
+## 💼 Experience & Education
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔬 Currently Exploring
-```diff
-+ AI-powered SaaS products
-+ Intelligent recommendation systems
-+ Human-computer interaction
-+ Cloud-native architecture
-+ Advanced automation workflows
-+ Real-time analytics systems
-```
+### 👔 Work Experience
+
+**🟦 2021 – Present**
+- **Web Developer** @ CodiuX LLC
+- **Website Developer** @ Fiverr Inc
+
+**🟦 2020 – 2021**
+- **Website Designer & Developer** @ Outlier Agency
+- **WordPress Developer** @ MediaTash
 
 </td>
 <td width="50%" valign="top">
 
-### 🤝 Open To
-```diff
-! Collaborations
-! Freelance projects
-! Startup partnerships
-! Open-source contributions
-! AI & automation opportunities
-! BuddyBoss/WordPress development
-```
+### 🎓 Education
+
+**🎓 2024 – 2028**
+- **BS in Artificial Intelligence**
+- NFCIET, Multan
+
+**🎓 2022 – 2024**
+- **Intermediate in Computer Science**
+- Superior College
 
 </td>
 </tr>
 </table>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- TESTIMONIALS -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 💬 What Clients Say
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+> *"Extremely satisfying to work with. Trustworthy, patient, reliable and skilled. We consider him part of our team and will use him regularly."*
+> 
+> — **Bryon Evje**  
+> *CEO of GobluChip*
+
+</td>
+<td width="33%" valign="top">
+
+> *"Khan was great to work with in helping me expand on my website. He caught security issues too and took care of it for me."*
+> 
+> — **Prince Armory**  
+> *CEO of Prince Armory*
+
+</td>
+<td width="33%" valign="top">
+
+> *"My favorite freelancer and WP professional! He's a guru for sure!"*
+> 
+> — **Jack Edwards**  
+> *CEO of Remisi*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- SERVICES / PRICING -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 💼 Service Packages
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🟢 BASIC — Small Business
+**$899**
+```diff
++ 7 Pages
++ 50+ Products
++ User-Friendly Experience
++ WooCommerce Integration
++ Business-day support
++ 1 month support included
+```
+[**📅 Book a Meeting →**](https://calendly.com/waqaskhaninternetmarketing/30min)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔵 BUSINESS — Medium Scale
+**$2,499**
+```diff
++ 15 Pages
++ Designed in Figma
++ Implemented in WordPress
++ Urgent meeting support
++ Priority project handling
++ 2 months support + SEO
++ Customer care gifts
+```
+[**📅 Book a Meeting →**](https://calendly.com/waqaskhaninternetmarketing/30min)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+💡 *Need a custom package?* **[Get in touch →](mailto:contact@waqaskhan.com.pk)**
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- OPEN TO -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 🤝 Open To Work
+
+<div align="center">
+
+`💼 Freelance Projects` • `🚀 Startup Partnerships` • `🤖 AI & Automation Builds` • `👥 BuddyBoss / WordPress Development` • `🛒 WooCommerce / Membership Sites` • `⚙️ CRM & Workflow Automation` • `📱 Mobile App Deployment`
+
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- CONNECT -->
@@ -296,28 +525,34 @@ I'm a developer passionate about creating modern applications that blend **Artif
 <a href="https://waqaskhan.com.pk">
   <img src="https://img.shields.io/badge/🌐_Website-waqaskhan.com.pk-00D9FF?style=for-the-badge&labelColor=000000" alt="Website"/>
 </a>
-<a href="https://github.com/mrsudo404">
-  <img src="https://img.shields.io/badge/💻_GitHub-mrsudo404-181717?style=for-the-badge&labelColor=000000" alt="GitHub"/>
-</a>
 <a href="mailto:contact@waqaskhan.com.pk">
   <img src="https://img.shields.io/badge/📧_Email-contact@waqaskhan.com.pk-D14836?style=for-the-badge&labelColor=000000" alt="Email"/>
+</a>
+<br/>
+<a href="https://calendly.com/waqaskhaninternetmarketing/30min">
+  <img src="https://img.shields.io/badge/📅_Schedule_a_30--min_Call-006BFF?style=for-the-badge&labelColor=000000" alt="Calendly"/>
+</a>
+<a href="https://www.linkedin.com/in/mrsudo404">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-mrsudo404-0A66C2?style=for-the-badge&labelColor=000000" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
 
-### 💫 Have an idea? Let's build something extraordinary together.
+### 💫 Have an ambitious idea? Let's build something extraordinary together.
+
+📍 *Based in Multan, Pakistan — Working remotely with clients across 20+ countries*
 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- FUN FACT QUOTE -->
+<!-- FUN FACT -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ## ⭐ Fun Fact
 
 <div align="center">
 
-> ### *"I love building futuristic interfaces, AI systems, and dashboards that feel like they belong in a sci-fi control center"* 🚀
+> ### *"I started coding at 13 — what felt like a hobby became 4+ years of building digital platforms that serve clients in 20+ countries. The best is yet to come."* 🚀
 
 <br/>
 
